@@ -1,0 +1,43 @@
+# Genel işletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Python dosyaları
+*.pyc
+*.pyo
+__pycache__/
+
+# Sanal ortam klasörü
+venv/
+env/
+
+# IDE ve editör dosyaları
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Log dosyaları
+*.log
+
+# Geçici dosyalar
+*.tmp
+*.bak
+
+# Gizli dosyalar (API anahtarları gibi)
+.env
+
+# Build klasörleri
+build/
+dist/
+*.egg-info/
+
+# Jupyter notebook checkpoint dosyaları
+.ipynb_checkpoints/
+
+# MacOS için dosyalar
+.DS_Store
+
+# Windows için dosyalar
+Thumbs.db
+desktop.ini
