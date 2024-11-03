@@ -9,7 +9,7 @@ from threading import Thread
 doc = Document()
 doc.add_heading("Otomatik Yapıştırma", level=1)
 
-# Önceki kopyalanan metni saklamak için bir değişken
+# Önceki kopyalanan metni saklamak için
 previous_text = ""
 is_running = False
 

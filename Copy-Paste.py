@@ -7,7 +7,7 @@ import re
 doc = Document()
 doc.add_heading("Otomatik Yapıştırma", level=1)
 
-# Önceki kopyalanan metni saklamak için bir değişken
+# Önceki kopyalanan metni saklamak
 previous_text = ""
 
 print("Otomatik kopyalama ve yapıştırma başlatıldı. Arka planda çalışıyor...")
