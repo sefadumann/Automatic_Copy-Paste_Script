@@ -41,3 +41,6 @@ dist/
 # Windows için dosyalar
 Thumbs.db
 desktop.ini
+
+
+*.docx
