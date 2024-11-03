@@ -36,3 +36,7 @@ To run this project, ensure the following Python libraries are installed:
 - `tkinter` 
 
 >included with the standard Python library
+
+>This project came to my mind because of a job that required me to select text from a pdf file, copy and paste it. 
+>And there were dozens of pdf files :( 
+>I thought why should I do it myself when it can be done with simple code automation.
